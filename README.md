@@ -2,25 +2,25 @@ Those projects were my course projects druing I studied in the University of New
 
 /----------------------------Language-----------------------------/
 
-C Language: COMP9315, COMP9319
+C Language:   COMP9315, COMP9319
 
-C++: COMP6771
+C++:          COMP6771
 
-Python: COMP9417, COMP9318
+Python:       COMP9417, COMP9318
 
-Java: COMP9102, COMP9313(ass1 and ass2)
+Java:         COMP9102, COMP9313(ass1 and ass2)
 
-Scala: COMP9313(ass3 and ass4)
+Scala:        COMP9313(ass3 and ass4)
 
-Shell: COMP9044
-
-/----------------------------Framework-----------------------------/
-
-MapReduce: COMP9313(ass1 and ass2)
-
-Spark: COMP9313(ass3 and ass4)
+Shell:        COMP9044
 
 /----------------------------Framework-----------------------------/
+
+MapReduce:    COMP9313(ass1 and ass2)
+
+Spark:        COMP9313(ass3 and ass4)
+
+/------------------------------Other-------------------------------/
 
 Simulate Git: COMP9044
 
